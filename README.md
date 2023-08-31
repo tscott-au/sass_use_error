@@ -1,4 +1,8 @@
-# sass Modules fail to load
+# sass Modules fail to load - when you use the wrong file extension like I did..
+
+Take care with the file extension. Late at night it's easy to get it wrong.
+
+# All the below is wrong as I had .sccs instead of scss
 
 The Sass documentation describes the @use syntax as a way to split up code into modules.
 
